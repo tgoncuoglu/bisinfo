@@ -1,0 +1,14 @@
+## Interface: 100207
+## Version: 0.1.0
+## Title: BISInfo
+## Notes: This addon tries to make it easier to handle best in slot (bis) items.
+## Author: Tuncay Goncuoglu
+## SavedVariables: BISInfoDB
+
+BISInfo.lua
+BISInfoData.lua
+BISInfoCommand.lua
+BiSInfoData_Warlock.lua
+BiSInfoData_Paladin.lua
+BiSInfoData_Shaman.lua
+BiSInfoData_Mage.lua
