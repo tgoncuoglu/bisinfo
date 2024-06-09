@@ -51,9 +51,9 @@ function displayBiS(slotName, bisitem)
 		-- local name = item:GetItemName() 
 		-- local icon = item:GetItemIcon()
 		local link = item:GetItemLink()
-		local currentUpgradeLevel, maxUpgradeLevel = GetItemUpgradeLevel(link)
+		-- local currentUpgradeLevel, maxUpgradeLevel = GetItemUpgradeLevel(link)
 
-		print(slotName .. ": ", link, currentUpgradeLevel, maxUpgradeLevel, "Source:", bisitem.dropsfrom)		
+		print(slotName .. ": ", link, "Source:", bisitem.dropsfrom)		
 	end)
 end
 
