@@ -16,6 +16,7 @@ in its current form.
 Some of the things that may happen in the future:
 * A graphical display to show BiS equipment set with color coded status.
 * More information about current player spec, such as stat priority.
+* Put some indicator of in-game character frame for bis info.
 
 
 --
