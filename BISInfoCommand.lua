@@ -1,28 +1,11 @@
 
 
-function getItemIdFromLink(itemLink)
-	local _, _, Color, Ltype, Id, Enchant, Gem1, Gem2, Gem3, Gem4,
-    Suffix, Unique, LinkLvl, Name = string.find(itemLink,
-    "|?c?f?f?(%x*)|?H?([^:]*):?(%d+):?(%d*):?(%d*):?(%d*):?(%d*):?(%d*):?(%-?%d*):?(%-?%d*):?(%d*):?(%d*):?(%-?%d*)|?h?%[?([^%[%]]*)%]?|?h?|?r?")
-	return Id
-end
-
 function GetSpecName()
 	local currentSpec = GetSpecialization()
 	local currentSpecName = currentSpec and select(2, GetSpecializationInfo(currentSpec)) or "None"
 	return currentSpecName
 end
 
-function displayBiS(slotName, bisitem)
-	local item = Item:CreateFromItemID(bisitem.id)
-
-	item:ContinueOnItemLoad(function()
-		-- local name = item:GetItemName() 
-		-- local icon = item:GetItemIcon()
-		local link = item:GetItemLink()
-		print(slotName .. ": ", link, "Source:", bisitem.dropsfrom)		
-	end)
-end
 
 SLASH_BISINFO1 = "/bis"
 

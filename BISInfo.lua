@@ -5,7 +5,7 @@ function f:OnEvent(event, ...)
 end
 
 function f:ADDON_LOADED(event, addOnName)
-	print("BIS Info loaded.")
+	print("BIS Info loaded. To check your gear use: /bis")
 	-- print(event, addOnName) -- ADDON_LOADED  Blizzard_MajorFactions
 end
 

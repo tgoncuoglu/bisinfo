@@ -8,6 +8,7 @@
 BISInfo.lua
 BISInfoData.lua
 BISInfoCommand.lua
+BiSInfoUpgrades.lua
 BiSInfoData_Warlock.lua
 BiSInfoData_Paladin.lua
 BiSInfoData_Shaman.lua
