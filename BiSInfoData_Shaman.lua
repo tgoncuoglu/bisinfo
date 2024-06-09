@@ -18,7 +18,7 @@ BiSData["shaman"] = {
         SecondaryHand = {id = 195520, source = "wowhead", sourceset = "Overall BiS", dropsfrom = "Broodkeeper Diurna"}
     },
     restoration = {
-        Head = {id = 0, source = "wowhead", sourceset = "Overall BiS", dropsfrom = ""},
+        Head = {id = 200399, source = "wowhead", sourceset = "Overall BiS", dropsfrom = ""},
         Neck = {id = 0, source = "wowhead", sourceset = "Overall BiS", dropsfrom = ""},
         Shoulder = {id = 0, source = "wowhead", sourceset = "Overall BiS", dropsfrom = ""},
         Back = {id = 0, source = "wowhead", sourceset = "Overall BiS", dropsfrom = ""},
