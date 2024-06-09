@@ -17,3 +17,6 @@ Some of the things that may happen in the future:
 * A graphical display to show BiS equipment set with color coded status.
 * More information about current player spec, such as stat priority.
 
+
+--
+Tuncay Göncüoğlu
