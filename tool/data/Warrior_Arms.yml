@@ -1,0 +1,43 @@
+class: Warrior
+spec: Arms
+slots:
+  Helm:
+    name: Wrathbark Greathelm
+    itemId: 178694
+    bonus: 657:11143:5878:7981:10299
+    source: Mists of Tirna Scithe
+  Shoulders:
+    name: Flesh Connector's Epaulets
+    itemId: 221185
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Chest:
+    name: Experimental Goresilk Chestguard
+    itemId: 221161
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Gloves:
+    name: Machinist's Searing Handguards
+    itemId: 221086
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Belt:
+    name: Belt of the Forgemaster
+    itemId: 133289
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  Legs:
+    name: Gormshell Greaves
+    itemId: 178701
+    bonus: 657:11143:5878:7981:10299
+    source: Mists of Tirna Scithe
+  Boots:
+    name: Ballast Sinkers
+    itemId: 159428
+    bonus: 657:11143:5878:7981:10299
+    source: Siege of Boralus
+  Ring:
+    name: Band of the Ancient Dredger
+    itemId: 159461
+    bonus: 657:11143:5878:7981:10299
+    source: Siege of Boralus

@@ -1,0 +1,68 @@
+class: Druid
+spec: Restoration
+slots:
+  Head:
+    name: Mask of the Greatlynx
+    itemId: 212056
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Neck:
+    name: '"Emergency Stop" Keychain'
+    itemId: 221077
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Shoulders:
+    name: Maw of the Greatlynx
+    itemId: 212054
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Cloak:
+    name: Anvilhide Cape
+    itemId: 221088
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Chest:
+    name: Hide of the Greatlynx
+    itemId: 212059
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Wrist:
+    name: Risen Monstrosity Cuffs
+    itemId: 178741
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Gloves:
+    name: Eviscerators of the Greatlynx
+    itemId: 212057
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Belt:
+    name: Sapgorger Belt
+    itemId: 178699
+    bonus: 657:11143:5878:7981:10299
+    source: Mists of Tirna Scithe
+  Legs:
+    name: Leggings of the Greatlynx
+    itemId: 212055
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Boots:
+    name: Viscera-Stitched Footpads
+    itemId: 178731
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Ring:
+    name: Experiment 08752's Band
+    itemId: ''
+    bonus: ''
+    source: City of Threads
+  Trinket:
+    name: Gale of Shadows
+    itemId: 133304
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  Staff:
+    name: Krix'vizk's Speech Rod
+    itemId: 221166
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads

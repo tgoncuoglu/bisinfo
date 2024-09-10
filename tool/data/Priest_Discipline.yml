@@ -1,0 +1,78 @@
+class: Priest
+spec: Discipline
+slots:
+  Head:
+    name: Crown of Enfeebled Bodies
+    itemId: 133302
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  Neck:
+    name: '"Emergency Stop" Keychain'
+    itemId: 221077
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Shoulders:
+    name: Living Luster's Dominion
+    itemId: 212081
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Cloak:
+    name: Anvilhide Cape
+    itemId: 221088
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Chest:
+    name: Living Luster's Raiment
+    itemId: 212086
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Wrist:
+    name: Vitriolic Veinwoven Wraps
+    itemId: 221182
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Gloves:
+    name: Living Luster's Touch
+    itemId: 212084
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Belt:
+    name: Burrower's Cinch
+    itemId: 221158
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Legs:
+    name: Living Luster's Trousers
+    itemId: 212082
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Boots:
+    name: Tainted Earthshard Walkers
+    itemId: 221082
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Ring:
+    name: Stitchflesh's Misplaced Signet
+    itemId: 178736
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Trinket:
+    name: Ara-Kara Sacbrood
+    itemId: 219314
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Staff:
+    name: Krix'vizk's Speech Rod
+    itemId: 221166
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Main Hand:
+    name: Unceremonious Bloodletter
+    itemId: 221165
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Off Hand:
+    name: Pail of Preserved Obscurity
+    itemId: 221172
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads

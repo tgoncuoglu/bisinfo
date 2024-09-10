@@ -1,0 +1,68 @@
+class: Death Knight
+spec: Blood
+slots:
+  Head:
+    name: Soaring Behemoth's Greathelm
+    itemId: 221146
+    bonus: 7981:11143:5878:10299
+    source: The Dawnbreaker
+  Neck:
+    name: Trailspinner Pendant
+    itemId: 178707
+    bonus: 657:11143:5878:7981:10299
+    source: Mists of Tirna Scithe
+  Shoulders:
+    name: Earthshape Pauldrons
+    itemId: 133294
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  Cloak:
+    name: Swarmcaller's Shroud
+    itemId: 221154
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Chest:
+    name: Dark Priest's Carapace
+    itemId: 221139
+    bonus: 657:11143:5878:7981:10299
+    source: The Dawnbreaker
+  Wrist:
+    name: Bracers of Umbral Mending
+    itemId: 133306
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  Gloves:
+    name: Machinist's Searing Handguards
+    itemId: 221086
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Belt:
+    name: Cannoneer's Toolbelt
+    itemId: 159434
+    bonus: 657:11143:5878:7981:10299
+    source: Siege of Boralus
+  Legs:
+    name: Legplates of Broken Trust
+    itemId: 221092
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Boots:
+    name: Ichor-Stained Sollerets
+    itemId: 221178
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Ring:
+    name: Ritual Commander's Ring
+    itemId: 178781
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Trinket:
+    name: Spare Meat Hook
+    itemId: 178751
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Weapon:
+    name: Dismembered Submersible Claw
+    itemId: 159650
+    bonus: 657:11143:5878:7981:10299
+    source: Siege of Boralus

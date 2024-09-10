@@ -1,0 +1,68 @@
+class: Hunter
+spec: Survival
+slots:
+  Head:
+    name: Lightless Scavenger's Skull
+    itemId: 212020
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Neck:
+    name: Trailspinner Pendant
+    itemId: 178707
+    bonus: 7981:11143:5878:10299
+    source: Mists of Tirna Scithe
+  Shoulders:
+    name: Lightless Scavenger's Taxidermy
+    itemId: 212018
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Cloak:
+    name: Anvilhide Cape
+    itemId: 221088
+    bonus: 7981:11143:5878:10299
+    source: The Stonevault
+  Chest:
+    name: Lightless Scavenger's Tunic
+    itemId: 212023
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Wrist:
+    name: Penumbral Rimeguards
+    itemId: 221174
+    bonus: 7981:11143:5878:10299
+    source: City of Threads
+  Gloves:
+    name: Lightless Scavenger's Mitts
+    itemId: 212021
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Belt:
+    name: Reinforced Anti-Intruder Chainmail
+    itemId: 221075
+    bonus: 7981:11143:5878:10299
+    source: The Stonevault
+  Legs:
+    name: Lightless Scavenger's Stalkings
+    itemId: 212019
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Boots:
+    name: Red Scale Boots
+    itemId: 133293
+    bonus: 7981:11143:5878:10299
+    source: Grim Batol
+  Ring:
+    name: Ritual Commander's Ring
+    itemId: 178781
+    bonus: 7981:11143:5878:10299
+    source: The Necrotic Wake
+  Trinket:
+    name: Ara-Kara Sacbrood
+    itemId: 219314
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Weapon:
+    name: Harvester's Interdiction
+    itemId: 221159
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes

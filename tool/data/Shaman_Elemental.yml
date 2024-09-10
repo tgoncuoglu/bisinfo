@@ -1,0 +1,78 @@
+class: Shaman
+spec: Elemental
+slots:
+  Head:
+    name: Wildhammer Riding Helm
+    itemId: 133285
+    bonus: 7981:11143:5878:10299
+    source: Grim Batol
+  Neck:
+    name: '"Emergency Stop" Keychain'
+    itemId: 221077
+    bonus: 7981:11143:5878:10299
+    source: The Stonevault
+  Shoulders:
+    name: Wintersnap Shoulderguards
+    itemId: 178695
+    bonus: 7981:11143:5878:10299
+    source: Mists of Tirna Scithe
+  Cloak:
+    name: Anvilhide Cape
+    itemId: 221088
+    bonus: 7981:11143:5878:10299
+    source: The Stonevault
+  Chest:
+    name: Goliath's Chitinous Chainmail
+    itemId: 221147
+    bonus: 7981:11143:5878:10299
+    source: The Dawnbreaker
+  Wrist:
+    name: Dread Captain's Irons
+    itemId: 159372
+    bonus: 7981:11143:5878:10299
+    source: Siege of Boralus
+  Gloves:
+    name: Claws of Tainted Ichor
+    itemId: 221162
+    bonus: 7981:11143:5878:10299
+    source: Ara-Kara, City of Echoes
+  Belt:
+    name: Anchor Chain Girdle
+    itemId: 159386
+    bonus: 7981:11143:5878:10299
+    source: Siege of Boralus
+  Legs:
+    name: Entwined Chimeric Legguards
+    itemId: 221186
+    bonus: 7981:11143:5878:10299
+    source: City of Threads
+  Boots:
+    name: Red Scale Boots
+    itemId: 133293
+    bonus: 7981:11143:5878:10299
+    source: Grim Batol
+  Ring:
+    name: Band of the Ancient Dredger
+    itemId: 159461
+    bonus: 7981:11143:5878:10299
+    source: Siege of Boralus
+  Trinket:
+    name: Ara-Kara Sacbrood
+    itemId: 219314
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Staff:
+    name: Wardbreaker of the Fractured
+    itemId: 221083
+    bonus: 7981:11143:5878:10299
+    source: The Stonevault
+  Main Hand:
+    name: Unceremonious Bloodletter
+    itemId: 221165
+    bonus: 7981:11143:5878:10299
+    source: Ara-Kara, City of Echoes
+  Off Hand:
+    name: Encrusted Canopic Lid
+    itemId: 178750
+    bonus: 7981:11143:5878:10299
+    source: The Necrotic Wake

@@ -1,0 +1,68 @@
+class: Paladin
+spec: Protection
+slots:
+  Head:
+    name: Wrathbark Greathelm
+    itemId: 178694
+    bonus: 657:11143:5878:7981:10299
+    source: Mists of Tirna Scithe
+  Neck:
+    name: '"Emergency Stop" Keychain'
+    itemId: 221077
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Shoulders:
+    name: Entombed Seraph's Plumes
+    itemId: 211991
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Cloak:
+    name: Anvilhide Cape
+    itemId: 221088
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Chest:
+    name: Entombed Seraph's Breastplate
+    itemId: 211996
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Wrist:
+    name: Bracers of Umbral Mending
+    itemId: 133306
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  Gloves:
+    name: Entombed Seraph's Castigation
+    itemId: 211994
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Belt:
+    name: Girdle of Somber Ploys
+    itemId: 221133
+    bonus: 657:11143:5878:7981:10299
+    source: The Dawnbreaker
+  Legs:
+    name: Entombed Seraph's Greaves
+    itemId: 211992
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Boots:
+    name: Ichor-Stained Sollerets
+    itemId: 221178
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Ring:
+    name: Band of the Ancient Dredger
+    itemId: 159461
+    bonus: 657:11143:5878:7981:10299
+    source: Siege of Boralus
+  Main Hand:
+    name: Engorged Worm Smasher
+    itemId: 178730
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Shield:
+    name: Acidslough Bulwark
+    itemId: 178712
+    bonus: 657:11143:5878:7981:10299
+    source: Mists of Tirna Scithe

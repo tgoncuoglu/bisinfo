@@ -1,0 +1,73 @@
+class: Rogue
+spec: Subtlety
+slots:
+  Head:
+    name: Whispering Mask
+    itemId: 221163
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Neck:
+    name: Trailspinner Pendant
+    itemId: 178707
+    bonus: 657:11143:5878:7981:10299
+    source: Mists of Tirna Scithe
+  Shoulders:
+    name: Shadowchill Amice
+    itemId: 221175
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Cloak:
+    name: Shroud of Dark Memories
+    itemId: 133309
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  Chest:
+    name: Freshly Embalmed Jerkin
+    itemId: 178744
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Wrist:
+    name: Unbreakable Beetlebane Bindings
+    itemId: 221157
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Gloves:
+    name: Wharf Warden's Gloves
+    itemId: 159328
+    bonus: 657:11143:5878:7981:10299
+    source: Siege of Boralus
+  Belt:
+    name: Troggbone Cinch
+    itemId: 133353
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  Legs:
+    name: Gauzewoven Legguards
+    itemId: 221153
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Boots:
+    name: Besieger's Deckstalkers
+    itemId: 159320
+    bonus: 657:11143:5878:7981:10299
+    source: Siege of Boralus
+  Ring:
+    name: Ring of Dun Algaz
+    itemId: 133287
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  Trinket:
+    name: Empowering Crystal of Anub'ikkaj
+    itemId: 219312
+    bonus: 657:11143:5878:7981:10299
+    source: The Dawnbreaker
+  Main Hand:
+    name: Stitchflesh's Scalpel
+    itemId: 178743
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Off Hand:
+    name: Stitchflesh's Scalpel
+    itemId: 178743
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake

@@ -1,0 +1,68 @@
+class: Evoker
+spec: Devastation
+slots:
+  Head:
+    name: Cryptbound Headpiece
+    itemId: 221156
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Neck:
+    name: Elder's Hemolymphal Periapt
+    itemId: 221181
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Shoulders:
+    name: Shadowblight Mantle
+    itemId: 221140
+    bonus: 657:11143:5878:7981:10299
+    source: The Dawnbreaker
+  Cloak:
+    name: Troggstitched Drape
+    itemId: 133363
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  Chest:
+    name: Goliath's Chitinous Chainmail
+    itemId: 221147
+    bonus: 657:11143:5878:7981:10299
+    source: The Dawnbreaker
+  Wrist:
+    name: Penumbral Rimeguards
+    itemId: 221174
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Gloves:
+    name: Corpseleecher Grips
+    itemId: 221080
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Belt:
+    name: Cinch of Lingering Influence
+    itemId: 221168
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Legs:
+    name: Entwined Chimeric Legguards
+    itemId: 221186
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Boots:
+    name: Silksteel Striders
+    itemId: 221152
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Ring:
+    name: Band of the Ancient Dredger
+    itemId: 159461
+    bonus: 657:11143:5878:7981:10299
+    source: Siege of Boralus
+  Trinket:
+    name: Gale of Shadows
+    itemId: 56462
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  2-hand:
+    name: Wardbreaker of the Fractured
+    itemId: 221083
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault

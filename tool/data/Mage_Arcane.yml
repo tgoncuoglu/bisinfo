@@ -1,0 +1,68 @@
+class: Mage
+spec: Arcane
+slots:
+  Head:
+    name: Intertwiner's Shadowcowl
+    itemId: 221187
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Neck:
+    name: '"Emergency Stop" Keychain'
+    itemId: 221077
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Shoulders:
+    name: Fanatic's Blackened Shoulderwraps
+    itemId: 221135
+    bonus: 657:11143:5878:7981:10299
+    source: The Dawnbreaker
+  Cloak:
+    name: Anvilhide Cape
+    itemId: 221088
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Chest:
+    name: Shadowed Orator's Tunic
+    itemId: 221095
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Wrist:
+    name: Vitriolic Veinwoven Wraps
+    itemId: 221182
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Gloves:
+    name: Subduer's Terrorgrips
+    itemId: 221170
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Belt:
+    name: Burrower's Cinch
+    itemId: 221158
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Legs:
+    name: E.D.N.A. Stabilizers
+    itemId: 221076
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Boots:
+    name: Tainted Earthshard Walkers
+    itemId: 221082
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Ring:
+    name: Experiment 08752's Band
+    itemId: ''
+    bonus: ''
+    source: City of Threads
+  Trinket:
+    name: Mereldar's Toll
+    itemId: 219313
+    bonus: 657:11143:5878:7981:10299
+    source: The Dawnbreaker
+  Staff:
+    name: Melodious Iron Songspire
+    itemId: 221085
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault

@@ -1,0 +1,68 @@
+class: Paladin
+spec: Retribution
+slots:
+  Head:
+    name: Entombed Seraph's Casque
+    itemId: 211993
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Neck:
+    name: '"Emergency Stop" Keychain'
+    itemId: 221077
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Shoulders:
+    name: Entombed Seraph's Plumes
+    itemId: 211991
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Cloak:
+    name: Anvilhide Cape
+    itemId: 221088
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Chest:
+    name: Entombed Seraph's Breastplate
+    itemId: 211996
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Wrist:
+    name: Bracers of Umbral Mending
+    itemId: 133306
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  Gloves:
+    name: Entombed Seraph's Castigation
+    itemId: 211994
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Belt:
+    name: Girdle of Somber Ploys
+    itemId: 221133
+    bonus: 657:11143:5878:7981:10299
+    source: The Dawnbreaker
+  Legs:
+    name: Legplates of Broken Trust
+    itemId: 221092
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Boots:
+    name: Ballast Sinkers
+    itemId: 159428
+    bonus: 657:11143:5878:7981:10299
+    source: Siege of Boralus
+  Ring:
+    name: Band of the Roving Scalawag
+    itemId: 162541
+    bonus: 657:11143:5878:7981:10299
+    source: Siege of Boralus
+  Trinket:
+    name: Ara-Kara Sacbrood
+    itemId: 219314
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Weapon:
+    name: Wild Hammer
+    itemId: 133298
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol

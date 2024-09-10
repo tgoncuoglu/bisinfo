@@ -1,0 +1,73 @@
+class: Demon Hunter
+spec: Vengeance
+slots:
+  Head:
+    name: Guise of the Construct
+    itemId: 221081
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Neck:
+    name: Elder's Hemolymphal Periapt
+    itemId: 221181
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Shoulders:
+    name: War-Mantle of the Hypogeal Nemesis
+    itemId: 212063
+    bonus: 7981:11143:5878:10299
+    source: Rasha'nan
+  Cloak:
+    name: Azureborne Cloak
+    itemId: 133292
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  Chest:
+    name: Chestguard of the Hypogeal Nemesis
+    itemId: 212068
+    bonus: 7981:11143:5878:10299
+    source: Broodtwister Ovi'nax
+  Wrist:
+    name: Scheming Assailer's Bands
+    itemId: 221142
+    bonus: 657:11143:5878:7981:10299
+    source: The Dawnbreaker
+  Gloves:
+    name: Claws of the Hypogeal Nemesis
+    itemId: 212066
+    bonus: 7981:11143:5878:10299
+    source: Sikran
+  Belt:
+    name: Port Pillager's Belt
+    itemId: 159309
+    bonus: 657:11143:5878:7981:10299
+    source: Siege of Boralus
+  Legs:
+    name: Pantaloons of the Hypogeal Nemesis
+    itemId: 212064
+    bonus: 7981:11143:5878:10299
+    source: Nexus-Princess Ky'veza
+  Boots:
+    name: Besieger's Deckstalkers
+    itemId: 159320
+    bonus: 657:11143:5878:7981:10299
+    source: Siege of Boralus
+  Ring:
+    name: Band of the Ancient Dredger
+    itemId: 159461
+    bonus: 657:11143:5878:7981:10299
+    source: Siege of Boralus
+  Trinket (Damage):
+    name: Bottled Flayedwing Toxin
+    itemId: 178742
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Trinket:
+    name: Empowering Crystal of Anub'ikkaj
+    itemId: 219312
+    bonus: 657:11143:5878:7981:10299
+    source: The Dawnbreaker
+  Weapon:
+    name: Skardyn Mercybringer
+    itemId: 221084
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault

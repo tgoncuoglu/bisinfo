@@ -1,0 +1,68 @@
+class: Mage
+spec: Fire
+slots:
+  Head:
+    name: Intertwiner's Shadowcowl
+    itemId: 221187
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Neck:
+    name: '"Emergency Stop" Keychain'
+    itemId: 221077
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Shoulders:
+    name: Reanimator's Mantle
+    itemId: 178740
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Cloak:
+    name: Anvilhide Cape
+    itemId: 221088
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Chest:
+    name: Shadowed Orator's Tunic
+    itemId: 221095
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Wrist:
+    name: Vitriolic Veinwoven Wraps
+    itemId: 221182
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Gloves:
+    name: Tricksprite Gloves
+    itemId: 178705
+    bonus: 657:11143:5878:7981:10299
+    source: Mists of Tirna Scithe
+  Belt:
+    name: Burrower's Cinch
+    itemId: 221158
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Legs:
+    name: E.D.N.A. Stabilizers
+    itemId: 221076
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Boots:
+    name: Tainted Earthshard Walkers
+    itemId: 221082
+    bonus: 657:11143:5878:7981:10299
+    source: The Stonevault
+  Ring:
+    name: Experiment 08752's Band
+    itemId: ''
+    bonus: ''
+    source: City of Threads
+  Trinket:
+    name: Gale of Shadows
+    itemId: 133304
+    bonus: 657:11143:5878:7981:10299
+    source: Grim Batol
+  Staff:
+    name: Krix'vizk's Speech Rod
+    itemId: 221166
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads

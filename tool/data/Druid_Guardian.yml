@@ -1,0 +1,78 @@
+class: Druid
+spec: Guardian
+slots:
+  Head:
+    name: Hood of the Hidden Path
+    itemId: 178691
+    bonus: 657:11143:5878:7981:10299
+    source: Mists of Tirna Scithe
+  Neck:
+    name: Elder's Hemolymphal Periapt
+    itemId: 221181
+    bonus: 657:11143:5878:7981:10299
+    source: City of Threads
+  Shoulders:
+    name: Maw of the Greatlynx
+    itemId: 212054
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Cloak:
+    name: Swarmcaller's Shroud
+    itemId: 221154
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Chest:
+    name: Hide of the Greatlynx
+    itemId: 212059
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Wrist:
+    name: Risen Monstrosity Cuffs
+    itemId: 178741
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Gloves:
+    name: Eviscerators of the Greatlynx
+    itemId: 212057
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Belt:
+    name: Sapgorger Belt
+    itemId: 178699
+    bonus: 657:11143:5878:7981:10299
+    source: Mists of Tirna Scithe
+  Legs:
+    name: Leggings of the Greatlynx
+    itemId: 212055
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Boots:
+    name: Viscera-Stitched Footpads
+    itemId: 178731
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Ring 1:
+    name: Stitchflesh's Misplaced Signet
+    itemId: 178736
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Ring 2:
+    name: Experiment 08752's Band
+    itemId: ''
+    bonus: ''
+    source: City of Threads
+  Trinket 1:
+    name: Bottled Flayedwing Toxin
+    itemId: 178742
+    bonus: 657:11143:5878:7981:10299
+    source: The Necrotic Wake
+  Trinket 2:
+    name: Ara-Kara Sacbrood
+    itemId: 219314
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes
+  Weapon:
+    name: Harvester's Interdiction
+    itemId: 221159
+    bonus: 657:11143:5878:7981:10299
+    source: Ara-Kara, City of Echoes

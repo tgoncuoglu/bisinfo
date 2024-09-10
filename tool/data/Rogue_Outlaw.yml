@@ -1,0 +1,73 @@
+class: Rogue
+spec: Outlaw
+slots:
+  Head:
+    name: Guise of the Construct
+    itemId: 221081
+    bonus: 7981:11143:5878:10299
+    source: The Stonevault
+  Neck:
+    name: Elder's Hemolymphal Periapt
+    itemId: 221181
+    bonus: 7981:11143:5878:10299
+    source: City of Threads
+  Shoulders:
+    name: Shadowchill Amice
+    itemId: 221175
+    bonus: 7981:11143:5878:10299
+    source: City of Threads
+  Cloak:
+    name: Swarmcaller's Shroud
+    itemId: 221154
+    bonus: 7981:11143:5878:10299
+    source: Ara-Kara, City of Echoes
+  Chest:
+    name: K'areshi Phantom's Nexus Wraps
+    itemId: 212041
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Wrist:
+    name: Scheming Assailer's Bands
+    itemId: 221142
+    bonus: 7981:11143:5878:10299
+    source: The Dawnbreaker
+  Gloves:
+    name: K'areshi Phantom's Grips
+    itemId: 212039
+    bonus: 7981:11143:5878:10299
+    source: ''
+  Belt:
+    name: Sapgorger Belt
+    itemId: 178699
+    bonus: 7981:11143:5878:10299
+    source: Mists of Tirna Scithe
+  Legs:
+    name: Gauzewoven Legguards
+    itemId: 221153
+    bonus: 7981:11143:5878:10299
+    source: Ara-Kara, City of Echoes
+  Boots:
+    name: Viscera-Stitched Footpads
+    itemId: 178731
+    bonus: 7981:11143:5878:10299
+    source: The Necrotic Wake
+  Ring:
+    name: Experiment 08752's Band
+    itemId: ''
+    bonus: ''
+    source: City of Threads
+  Trinket:
+    name: Ara-Kara Sacbrood
+    itemId: 219314
+    bonus: 7981:11143:5878:10299
+    source: Ara-Kara, City of Echoes
+  Main Hand:
+    name: Zephyrous Sail Carver
+    itemId: 221144
+    bonus: 7981:11143:5878:10299
+    source: The Dawnbreaker
+  Off Hand:
+    name: Splice 'n Dice
+    itemId: 221183
+    bonus: 7981:11143:5878:10299
+    source: City of Threads
