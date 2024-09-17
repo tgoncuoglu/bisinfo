@@ -1,0 +1,53 @@
+BiSData["hunter"] = {
+    beast_mastery = {
+        Head = { id = 212020, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Lightless Scavenger's Skull" },
+        Neck = { id = 178707, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Trailspinner Pendant" },
+        Shoulder = { id = 212018, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Lightless Scavenger's Taxidermy" },
+        Back = { id = 212015, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Lightless Scavenger's Hide" },
+        Chest = { id = 212023, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Lightless Scavenger's Tunic" },
+        Wrist = { id = 221174, dropsfrom = "City of Threads", bonus = "657:11143:5878:7981:10299", name = "Penumbral Rimeguards" },
+        Hands = { id = 221080, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Corpseleecher Grips" },
+        Waist = { id = 221075, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Reinforced Anti-Intruder Chainmail" },
+        Legs = { id = 212019, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Lightless Scavenger's Stalkings" },
+        Feet = { id = 159379, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Sure-Foot Sabatons" },
+        Ring 1 = { id = 221136, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Devout Zealot's Ring" },
+        Ring 2 = { id = 162542, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Seal of the City Watch" },
+        Trinket 1 = { id = 133282, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Skardyn's Grace" },
+        Trinket 2 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
+        Weapon = { id = 221143, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Recurved Hull Impaler" }
+    },
+    marksmanship = {
+        Head = { id = 178738, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Rattling Deadeye Hood" },
+        Neck = { id = 178707, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Trailspinner Pendant" },
+        Shoulder = { id = 212018, dropsfrom = "", bonus = "657:11143:5878:7981:10299", name = "Lightless Scavenger's Taxidermy" },
+        Back = { id = 133363, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Troggstitched Drape" },
+        Chest = { id = 212023, dropsfrom = "", bonus = "657:11143:5878:7981:10299", name = "Lightless Scavenger's Tunic" },
+        Wrist = { id = 221174, dropsfrom = "City of Threads", bonus = "657:11143:5878:7981:10299", name = "Penumbral Rimeguards" },
+        Hands = { id = 212021, dropsfrom = "", bonus = "657:11143:5878:7981:10299", name = "Lightless Scavenger's Mitts" },
+        Waist = { id = 159386, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Anchor Chain Girdle" },
+        Legs = { id = 212019, dropsfrom = "", bonus = "657:11143:5878:7981:10299", name = "Lightless Scavenger's Stalkings" },
+        Feet = { id = 133293, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Red Scale Boots" },
+        Finger0 = { id = 221136, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Devout Zealot's Ring" },
+        Finger1 = { id = 162542, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Seal of the City Watch" },
+        Trinket0 = { id = 133282, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Skardyn's Grace" },
+        Trinket 2 = { id = 219312, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Empowering Crystal of Anub'ikkaj" },
+        Weapon = { id = 221074, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Augmented Refractor Cannon" }
+    },
+    survival = {
+        Head = { id = 212020, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Lightless Scavenger's Skull" },
+        Neck = { id = 178707, dropsfrom = "Mists of Tirna Scithe", bonus = "7981:11143:5878:10299", name = "Trailspinner Pendant" },
+        Shoulder = { id = 212018, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Lightless Scavenger's Taxidermy" },
+        Back = { id = 221088, dropsfrom = "The Stonevault", bonus = "7981:11143:5878:10299", name = "Anvilhide Cape" },
+        Chest = { id = 212023, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Lightless Scavenger's Tunic" },
+        Wrist = { id = 221174, dropsfrom = "City of Threads", bonus = "7981:11143:5878:10299", name = "Penumbral Rimeguards" },
+        Hands = { id = 212021, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Lightless Scavenger's Mitts" },
+        Waist = { id = 221075, dropsfrom = "The Stonevault", bonus = "7981:11143:5878:10299", name = "Reinforced Anti-Intruder Chainmail" },
+        Legs = { id = 212019, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Lightless Scavenger's Stalkings" },
+        Feet = { id = 133293, dropsfrom = "Grim Batol", bonus = "7981:11143:5878:10299", name = "Red Scale Boots" },
+        Finger0 = { id = 162542, dropsfrom = "Siege of Boralus", bonus = "7981:11143:5878:10299", name = "Seal of the City Watch" },
+        Finger1 = { id = 178781, dropsfrom = "The Necrotic Wake", bonus = "7981:11143:5878:10299", name = "Ritual Commander's Ring" },
+        Trinket0 = { id = 133282, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Skardyn's Grace" },
+        Trinket1 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
+        Weapon = { id = 221159, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Harvester's Interdiction" }
+    }
+}

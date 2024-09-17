@@ -1,0 +1,53 @@
+BiSData["death knight"] = {
+    blood = {
+        Head = { id = 221146, dropsfrom = "The Dawnbreaker", bonus = "7981:11143:5878:10299", name = "Soaring Behemoth's Greathelm" },
+        Neck = { id = 178707, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Trailspinner Pendant" },
+        Shoulder = { id = 133294, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Earthshape Pauldrons" },
+        Back = { id = 221154, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Swarmcaller's Shroud" },
+        Chest = { id = 221139, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Dark Priest's Carapace" },
+        Wrist = { id = 133306, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Bracers of Umbral Mending" },
+        Hands = { id = 221086, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Machinist's Searing Handguards" },
+        Waist = { id = 159434, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Cannoneer's Toolbelt" },
+        Legs = { id = 221092, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Legplates of Broken Trust" },
+        Feet = { id = 221178, dropsfrom = "City of Threads", bonus = "657:11143:5878:7981:10299", name = "Ichor-Stained Sollerets" },
+        Finger0 = { id = 162541, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Band of the Roving Scalawag" },
+        Finger1 = { id = 178781, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Ritual Commander's Ring" },
+        Trinket0 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
+        Trinket1 = { id = 178751, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Spare Meat Hook" },
+        Weapon = { id = 159650, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Dismembered Submersible Claw" }
+    },
+    frost = {
+        Head = { id = 178694, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Wrathbark Greathelm" },
+        Neck = { id = 178707, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Trailspinner Pendant" },
+        Shoulder = { id = 221185, dropsfrom = "City of Threads", bonus = "657:11143:5878:7981:10299", name = "Flesh Connector's Epaulets" },
+        Back = { id = 133363, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Troggstitched Drape" },
+        Chest = { id = 221139, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Dark Priest's Carapace" },
+        Wrist = { id = 133306, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Bracers of Umbral Mending" },
+        Hands = { id = 178706, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Fogweaver Gauntlets" },
+        Waist = { id = 221079, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Crystal-Fissure Girdle" },
+        Legs = { id = 178739, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Legplates of Unholy Frenzy" },
+        Feet = { id = 159428, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Ballast Sinkers" },
+        Finger0 = { id = 221136, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Devout Zealot's Ring" },
+        Finger1 = { id = 162541, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Band of the Roving Scalawag" },
+        Trinket0 = { id = 219300, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Skarmorak Shard" },
+        Trinket1 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
+        Weapon = { id = 221145, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Shipwrecker's Bludgeon" }
+    },
+    unholy = {
+        Head = { id = 178694, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Wrathbark Greathelm" },
+        Neck = { id = 221077, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "\"Emergency Stop\" Keychain" },
+        Shoulder = { id = 212000, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Exhumed Centurion's Spikes" },
+        Back = { id = 221088, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Anvilhide Cape" },
+        Chest = { id = 212005, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Exhumed Centurion's Breastplate" },
+        Wrist = { id = 133306, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Bracers of Umbral Mending" },
+        Hands = { id = 212003, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Exhumed Centurion's Gauntlets" },
+        Waist = { id = 221133, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Girdle of Somber Ploys" },
+        Legs = { id = 212001, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Exhumed Centurion's Chausses" },
+        Feet = { id = 159428, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Ballast Sinkers" },
+        Finger0 = { id = 178736, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Stitchflesh's Misplaced Signet" },
+        Finger1 = { id = 133299, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Circle of Bone" },
+        Trinket0 = { id = 133300, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Mark of Khardros" },
+        Trinket1 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
+        MainHand = { id = 56131, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Wild Hammer" }
+    }
+}
