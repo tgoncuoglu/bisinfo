@@ -18,8 +18,7 @@ BiSData["monk"] = {
         Feet = { id = 178731, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Viscera-Stitched Footpads" },
         Finger0 = { id = , dropsfrom = "City of Threads", bonus = "", name = "Experiment 08752's Band" },
         Finger1 = { id = 178736, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Stitchflesh's Misplaced Signet" },
-        2H Weapon = { id = 221137, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Black Shepherd's Guisarme" },
-        1H Weapon = { id = 221090, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Eirich's Fist of Deception" },
+        MainHand = { id = 221137, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Black Shepherd's Guisarme" },
         Trinket0 = { id = 133282, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Skardyn's Grace" },
         Trinket1 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" }
     }
