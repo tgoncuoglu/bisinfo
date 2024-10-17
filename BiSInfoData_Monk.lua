@@ -16,7 +16,7 @@ BiSData["monk"] = {
         Waist = { id = 178699, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Sapgorger Belt" },
         Legs = { id = 212046, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Gatecrasher's Kilt" },
         Feet = { id = 178731, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Viscera-Stitched Footpads" },
-        Finger0 = { id = , dropsfrom = "City of Threads", bonus = "", name = "Experiment 08752's Band" },
+        Finger0 = { id = 221189, dropsfrom = "City of Threads", bonus = "", name = "Experiment 08752's Band" },
         Finger1 = { id = 178736, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Stitchflesh's Misplaced Signet" },
         MainHand = { id = 221137, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Black Shepherd's Guisarme" },
         Trinket0 = { id = 133282, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Skardyn's Grace" },

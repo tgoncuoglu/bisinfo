@@ -10,11 +10,11 @@ BiSData["hunter"] = {
         Waist = { id = 221075, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Reinforced Anti-Intruder Chainmail" },
         Legs = { id = 212019, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Lightless Scavenger's Stalkings" },
         Feet = { id = 159379, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Sure-Foot Sabatons" },
-        Ring 1 = { id = 221136, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Devout Zealot's Ring" },
-        Ring 2 = { id = 162542, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Seal of the City Watch" },
-        Trinket 1 = { id = 133282, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Skardyn's Grace" },
-        Trinket 2 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
-        Weapon = { id = 221143, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Recurved Hull Impaler" }
+        Finger0 = { id = 221136, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Devout Zealot's Ring" },
+        Finger1 = { id = 162542, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Seal of the City Watch" },
+        Trinket0 = { id = 133282, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Skardyn's Grace" },
+        Trinket1 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
+        MainHand = { id = 221143, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Recurved Hull Impaler" }
     },
     marksmanship = {
         Head = { id = 178738, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Rattling Deadeye Hood" },
@@ -30,8 +30,8 @@ BiSData["hunter"] = {
         Finger0 = { id = 221136, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Devout Zealot's Ring" },
         Finger1 = { id = 162542, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Seal of the City Watch" },
         Trinket0 = { id = 133282, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Skardyn's Grace" },
-        Trinket 2 = { id = 219312, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Empowering Crystal of Anub'ikkaj" },
-        Weapon = { id = 221074, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Augmented Refractor Cannon" }
+        Trinket1 = { id = 219312, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Empowering Crystal of Anub'ikkaj" },
+        MainHand = { id = 221074, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Augmented Refractor Cannon" }
     },
     survival = {
         Head = { id = 212020, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Lightless Scavenger's Skull" },
@@ -48,6 +48,6 @@ BiSData["hunter"] = {
         Finger1 = { id = 178781, dropsfrom = "The Necrotic Wake", bonus = "7981:11143:5878:10299", name = "Ritual Commander's Ring" },
         Trinket0 = { id = 133282, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Skardyn's Grace" },
         Trinket1 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
-        Weapon = { id = 221159, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Harvester's Interdiction" }
+        MainHand = { id = 221159, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Harvester's Interdiction" }
     }
 }

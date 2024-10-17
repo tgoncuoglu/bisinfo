@@ -29,7 +29,7 @@ BiSData["rogue"] = {
         Legs = { id = 133354, dropsfrom = "Grim Batol", bonus = "7981:11143:5878:10299", name = "Glimmerthread Pantaloons" },
         Feet = { id = 178731, dropsfrom = "The Necrotic Wake", bonus = "7981:11143:5878:10299", name = "Viscera-Stitched Footpads" },
         Finger0 = { id = 178736, dropsfrom = "The Necrotic Wake", bonus = "7981:11143:5878:10299", name = "Stitchflesh's Misplaced Signet" },
-        Finger1 = { id = , dropsfrom = "City of Threads", bonus = "", name = "Experiment 08752's Band" },
+        Finger1 = { id = 221189, dropsfrom = "City of Threads", bonus = "", name = "Experiment 08752's Band" },
         Trinket0 = { id = 159623, dropsfrom = "Siege of Boralus", bonus = "7981:11143:5878:10299", name = "Dead-Eye Spyglass" },
         Trinket1 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "7981:11143:5878:10299", name = "Ara-Kara Sacbrood" },
         MainHand = { id = 221144, dropsfrom = "The Dawnbreaker", bonus = "7981:11143:5878:10299", name = "Zephyrous Sail Carver" },

@@ -31,7 +31,7 @@ BiSData["druid"] = {
         Finger1 = { id = 133286, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Umbriss Band" },
         Trinket0 = { id = 133282, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Skardyn's Grace" },
         Trinket1 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "7981:11143:5878:10299", name = "Ara-Kara Sacbrood" },
-        2H Weapon = { id = 221159, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Harvester's Interdiction" }
+        MainHand = { id = 221159, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Harvester's Interdiction" }
     },
     guardian = {
         Head = { id = 178691, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Hood of the Hidden Path" },
@@ -44,11 +44,11 @@ BiSData["druid"] = {
         Waist = { id = 178699, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Sapgorger Belt" },
         Legs = { id = 212055, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Leggings of the Greatlynx" },
         Feet = { id = 178731, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Viscera-Stitched Footpads" },
-        Ring 1 = { id = 178736, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Stitchflesh's Misplaced Signet" },
-        Ring 2 = { id = , dropsfrom = "City of Threads", bonus = "", name = "Experiment 08752's Band" },
-        Trinket 1 = { id = 178742, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Bottled Flayedwing Toxin" },
-        Trinket 2 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
-        Weapon = { id = 221159, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Harvester's Interdiction" }
+        Finger0 = { id = 178736, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Stitchflesh's Misplaced Signet" },
+        Finger1 = { id = 221189, dropsfrom = "City of Threads", bonus = "", name = "Experiment 08752's Band" },
+        Trinket0 = { id = 178742, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Bottled Flayedwing Toxin" },
+        Trinket1 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
+        MainHand = { id = 221159, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Harvester's Interdiction" }
     },
     restoration = {
         Head = { id = 212056, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Mask of the Greatlynx" },
@@ -62,7 +62,7 @@ BiSData["druid"] = {
         Legs = { id = 212055, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Leggings of the Greatlynx" },
         Feet = { id = 178731, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Viscera-Stitched Footpads" },
         Finger0 = { id = 178736, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Stitchflesh's Misplaced Signet" },
-        Finger1 = { id = , dropsfrom = "City of Threads", bonus = "", name = "Experiment 08752's Band" },
+        Finger1 = { id = 221189, dropsfrom = "City of Threads", bonus = "", name = "Experiment 08752's Band" },
         Trinket0 = { id = 178708, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Unbound Changeling" },
         Trinket1 = { id = 133304, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Gale of Shadows" },
         MainHand = { id = 221166, dropsfrom = "City of Threads", bonus = "657:11143:5878:7981:10299", name = "Krix'vizk's Speech Rod" }

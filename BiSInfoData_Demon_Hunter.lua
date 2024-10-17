@@ -30,7 +30,6 @@ BiSData["demon hunter"] = {
         Feet = { id = 159320, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Besieger's Deckstalkers" },
         Finger0 = { id = 221136, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Devout Zealot's Ring" },
         Finger1 = { id = 159461, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Band of the Ancient Dredger" },
-        Trinket (Damage) = { id = 178742, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Bottled Flayedwing Toxin" },
         Trinket0 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
         Trinket1 = { id = 219312, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Empowering Crystal of Anub'ikkaj" },
         Weapon = { id = 221084, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Skardyn Mercybringer" }

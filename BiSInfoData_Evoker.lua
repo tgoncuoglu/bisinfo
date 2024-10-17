@@ -32,7 +32,7 @@ BiSData["evoker"] = {
         Finger1 = { id = 159461, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Band of the Ancient Dredger" },
         Trinket0 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
         Trinket1 = { id = 56462, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Gale of Shadows" },
-        2-hand = { id = 221083, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Wardbreaker of the Fractured" }
+        SecondaryHand = { id = 221083, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Wardbreaker of the Fractured" }
     },
     preservation = {
         Head = { id = 212029, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Horns of the Destroyer" },

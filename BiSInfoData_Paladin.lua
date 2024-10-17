@@ -11,11 +11,11 @@ BiSData["paladin"] = {
         Legs = { id = 211992, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Entombed Seraph's Greaves" },
         Feet = { id = 221178, dropsfrom = "City of Threads", bonus = "657:11143:5878:7981:10299", name = "Ichor-Stained Sollerets" },
         Finger0 = { id = 178736, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Stitchflesh's Misplaced Signet" },
-        Finger1 = { id = , dropsfrom = "City of Threads", bonus = "", name = "Experiment 08752's Band" },
+        Finger1 = { id = 221189, dropsfrom = "City of Threads", bonus = "", name = "Experiment 08752's Band" },
         Trinket0 = { id = 133304, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Gale of Shadows" },
         Trinket1 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
         MainHand = { id = 178737, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Amarth's Spellblade" },
-        Shield = { id = 221177, dropsfrom = "City of Threads", bonus = "657:11143:5878:7981:10299", name = "Old-Blood Hielaman" }
+        SecondaryHand = { id = 221177, dropsfrom = "City of Threads", bonus = "657:11143:5878:7981:10299", name = "Old-Blood Hielaman" }
     },
     protection = {
         Head = { id = 178694, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Wrathbark Greathelm" },
@@ -31,7 +31,7 @@ BiSData["paladin"] = {
         Finger0 = { id = 133299, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Circle of Bone" },
         Finger1 = { id = 159461, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Band of the Ancient Dredger" },
         MainHand = { id = 178730, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Engorged Worm Smasher" },
-        Shield = { id = 178712, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Acidslough Bulwark" }
+        SecondaryHand = { id = 178712, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Acidslough Bulwark" }
     },
     retribution = {
         Head = { id = 211993, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Entombed Seraph's Casque" },
@@ -48,6 +48,6 @@ BiSData["paladin"] = {
         Finger1 = { id = 162541, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Band of the Roving Scalawag" },
         Trinket0 = { id = 133300, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Mark of Khardros" },
         Trinket1 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
-        Weapon = { id = 133298, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Wild Hammer" }
+        MainHand = { id = 133298, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Wild Hammer" }
     }
 }
