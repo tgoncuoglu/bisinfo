@@ -1,4 +1,4 @@
-BiSData["death knight"] = {
+BiSData["deathknight"] = {
     blood = {
         Head = { id = 221146, dropsfrom = "The Dawnbreaker", bonus = "7981:11143:5878:10299", name = "Soaring Behemoth's Greathelm" },
         Neck = { id = 178707, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Trailspinner Pendant" },
@@ -14,7 +14,7 @@ BiSData["death knight"] = {
         Finger1 = { id = 178781, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Ritual Commander's Ring" },
         Trinket0 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
         Trinket1 = { id = 178751, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Spare Meat Hook" },
-        Weapon = { id = 159650, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Dismembered Submersible Claw" }
+        MainHand = { id = 159650, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Dismembered Submersible Claw" }
     },
     frost = {
         Head = { id = 178694, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Wrathbark Greathelm" },
@@ -31,7 +31,7 @@ BiSData["death knight"] = {
         Finger1 = { id = 162541, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Band of the Roving Scalawag" },
         Trinket0 = { id = 219300, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Skarmorak Shard" },
         Trinket1 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
-        Weapon = { id = 221145, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Shipwrecker's Bludgeon" }
+        MainHand = { id = 221145, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Shipwrecker's Bludgeon" }
     },
     unholy = {
         Head = { id = 178694, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Wrathbark Greathelm" },
