@@ -1,4 +1,4 @@
-BiSData["demon hunter"] = {
+BiSData["demonhunter"] = {
     havoc = {
         Head = { id = 221163, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Whispering Mask" },
         Neck = { id = 178707, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Trailspinner Pendant" },
@@ -32,6 +32,6 @@ BiSData["demon hunter"] = {
         Finger1 = { id = 159461, dropsfrom = "Siege of Boralus", bonus = "657:11143:5878:7981:10299", name = "Band of the Ancient Dredger" },
         Trinket0 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" },
         Trinket1 = { id = 219312, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Empowering Crystal of Anub'ikkaj" },
-        Weapon = { id = 221084, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Skardyn Mercybringer" }
+        MainHand = { id = 221084, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Skardyn Mercybringer" }
     }
 }
