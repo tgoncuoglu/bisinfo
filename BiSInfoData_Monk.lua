@@ -1,25 +1,35 @@
 BiSData["monk"] = {
     brewmaster = {
-
+        Head = { id = 229298, dropsfrom = "", bonus = "7981:12042:5878:11996", name = "Ageless Serpent's Mane" },
+        Neck = { id = 221103, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Flickering Glowtorc" },
+        Shoulder = { id = 229296, dropsfrom = "", bonus = "7981:12042:5878:11996", name = "Ageless Serpent's Shoulderpads" },
+        Back = { id = 199921, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Trashmaster's Mantle" },
+        Chest = { id = 235417, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Venture Co. Plenipotentiary Vest" },
+        Wrist = { id = 158353, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Servo-Arm Bindings" },
+        Hands = { id = 229299, dropsfrom = "", bonus = "7981:12042:5878:11996", name = "Ageless Serpent's Handguards" },
+        Waist = { id = 168986, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Mad King's Sporran" },
+        Legs = { id = 229297, dropsfrom = "", bonus = "7981:12042:5878:11996", name = "Ageless Serpent's Leggings" },
+        Feet = { id = 159336, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Mercenary Miner's Boots" },
+        Finger0 = { id = 178872, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Ring of Perpetual Conflict" },
+        Trinket0 = { id = 219297, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Cinderbrew Stein" },
+        MainHand = { id = 178864, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Gorebound Predator's Gavel" }
     },
     mistweaver = {
 
     },
     windwalker = {
-        Head = { id = 178691, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Hood of the Hidden Path" },
-        Neck = { id = 221077, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "\"Emergency Stop\" Keychain" },
-        Shoulder = { id = 212045, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Gatecrasher's Enduring Effigy" },
-        Back = { id = 221088, dropsfrom = "The Stonevault", bonus = "657:11143:5878:7981:10299", name = "Anvilhide Cape" },
-        Chest = { id = 212050, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Gatecrasher's Gi" },
-        Wrist = { id = 178741, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Risen Monstrosity Cuffs" },
-        Hands = { id = 212048, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Gatecrasher's Protectors" },
-        Waist = { id = 178699, dropsfrom = "Mists of Tirna Scithe", bonus = "657:11143:5878:7981:10299", name = "Sapgorger Belt" },
-        Legs = { id = 212046, dropsfrom = "", bonus = "7981:11143:5878:10299", name = "Gatecrasher's Kilt" },
-        Feet = { id = 178731, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Viscera-Stitched Footpads" },
-        Finger0 = { id = 221189, dropsfrom = "City of Threads", bonus = "", name = "Experiment 08752's Band" },
-        Finger1 = { id = 178736, dropsfrom = "The Necrotic Wake", bonus = "657:11143:5878:7981:10299", name = "Stitchflesh's Misplaced Signet" },
-        MainHand = { id = 221137, dropsfrom = "The Dawnbreaker", bonus = "657:11143:5878:7981:10299", name = "Black Shepherd's Guisarme" },
-        Trinket0 = { id = 133282, dropsfrom = "Grim Batol", bonus = "657:11143:5878:7981:10299", name = "Skardyn's Grace" },
-        Trinket1 = { id = 219314, dropsfrom = "Ara-Kara, City of Echoes", bonus = "657:11143:5878:7981:10299", name = "Ara-Kara Sacbrood" }
+        Head = { id = 229298, dropsfrom = "", bonus = "7981:12042:5878:11996", name = "Ageless Serpent's Mane" },
+        Neck = { id = 221060, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Strapped Rescue-Keg" },
+        Shoulder = { id = 229296, dropsfrom = "", bonus = "7981:12042:5878:11996", name = "Ageless Serpent's Shoulderpads" },
+        Back = { id = 234507, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Electrician's Siphoning Filter" },
+        Chest = { id = 229301, dropsfrom = "", bonus = "7981:12042:5878:11996", name = "Ageless Serpent's Inked Coils" },
+        Wrist = { id = 221053, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Battle-Scarred Fisticuffs" },
+        Hands = { id = 229299, dropsfrom = "", bonus = "7981:12042:5878:11996", name = "Ageless Serpent's Handguards" },
+        Waist = { id = 168957, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Mekgineer's Championship Belt" },
+        Legs = { id = 168968, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Flame-Seared Leggings" },
+        Feet = { id = 221071, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Backbreaking Bootstrappers" },
+        Finger0 = { id = 178869, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Fleshfused Circle" },
+        MainHand = { id = 221051, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Crusher of the Unsettled" },
+        Trinket0 = { id = 219308, dropsfrom = "", bonus = "657:12042:5878:7981:11996", name = "Signet of the Priory" }
     }
 }
